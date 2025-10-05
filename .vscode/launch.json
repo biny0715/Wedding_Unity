@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Attach to Unity Editor",
+      "type": "vstuc",
+      "request": "attach",
+      "address": "127.0.0.1",
+      "port": 56079
+    }
+  ]
+}
